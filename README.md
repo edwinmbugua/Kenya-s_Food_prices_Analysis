@@ -1,4 +1,5 @@
-![food crops](https://github.com/user-attachments/assets/0add2d21-ae4d-4206-bf73-cd88eda2a108)# Kenya-s_Food_prices_Analysis
+# Kenya-s_Food_prices_Analysis
+<img width="521" alt="food analysis" src="https://github.com/user-attachments/assets/435ccf06-c63d-47e4-b212-5bfedbef9399">
 Look into how Kenya's food prices such as maize, rice, beans, fish, and sugar has been changing over the past few years with the aim of finding key patterns if any as to why the increase or decrease in prices.
 
 ### Summary
@@ -10,4 +11,4 @@ Look into how Kenya's food prices such as maize, rice, beans, fish, and sugar ha
 
 * Most food items like spinach, salt, and onions stayed low and stable in price throughout the years. Fresh milk saw a sharp increase in price after 2021.
 
-<img width="521" alt="food analysis" src="https://github.com/user-attachments/assets/435ccf06-c63d-47e4-b212-5bfedbef9399">
+
