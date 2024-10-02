@@ -1,6 +1,7 @@
 # Kenya-s_Food_prices_Analysis
 <img width="521" alt="food analysis" src="https://github.com/user-attachments/assets/435ccf06-c63d-47e4-b212-5bfedbef9399">
-Look into how Kenya's food prices such as maize, rice, beans, fish, and sugar has been changing over the past few years with the aim of finding key patterns if any as to why the increase or decrease in prices.
+
+*Look into how Kenya's food prices such as maize, rice, beans, fish, and sugar has been changing over the past few years with the aim of finding key patterns if any as to why the increase or decrease in prices.
 
 ### Summary
 * Having a look at the data we find that the food commodities that fetch high prices are from the pulses and nuts categories this is followed by vegetable and fruits then cereals and tuber forming the top three.
